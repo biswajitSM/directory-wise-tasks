@@ -1,0 +1,7 @@
+*.ipynb
+*.doc
+*.pdf
+*.eps
+*.m~
+*.asv
+*.gz
